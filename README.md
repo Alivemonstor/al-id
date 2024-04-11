@@ -1,20 +1,14 @@
-# qb-scoreboard
-Scoreboard for QB-Core
+# al-id
 
-# License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
+This script provides a way of people checking id's but the id's are the characters CitizenID rather than server id! Feel free to make PR's and suggestions if needed!
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+## Video Preview
+- <a href="">**Showcase (soonTM)**</a>
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+## Dependencies
+- <a href="https://github.com/qbcore-framework/qb-core">**qb-core**</a>
+- <a href="https://github.com/overextended/ox_lib">**ox_lib**</a> 
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+## Shoutouts
+- <a href="https://github.com/qbcore-framework/qb-scoreboard">**qb-scoreboard**</a> Did most of the code i wont lie.
